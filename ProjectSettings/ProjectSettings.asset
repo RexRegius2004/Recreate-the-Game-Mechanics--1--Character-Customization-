@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a7b57c64094031144b5c44efe909ea31
+  productGUID: 8774393c00864c548a237ac989e94152
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,8 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Recreate the Game Mechanics_1(Character Customization)
+  productName: Recreate the Game Mechanics #2 (UI Showing when Hover with Grab and
+    Drop)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -831,14 +832,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Recreate the Game Mechanics_1(Character Customization)
+  metroPackageName: Recreate the Game Mechanics #2 (UI Showing when Hover with Grab
+    and Drop)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Recreate the Game Mechanics_1(Character Customization)
+  metroApplicationDescription: Recreate the Game Mechanics #2 (UI Showing when Hover
+    with Grab and Drop)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -907,11 +910,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b10eacd5-6939-433d-87cc-5b5ef93851e8
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Recreate the Game Mechanics_1(Character Customization)
-  organizationId: unity_6b9e097966f305eb25cf
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
